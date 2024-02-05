@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Medicines",
+    "\\Medicines\\Data",
+    "\\Medicines\\DataProcessor",
+    "\\Medicines\\DataProcessor\\ImportDtos",
+    "\\Medicines\\Datasets",
+    "\\Medicines\\ExportResults",
+    "\\Medicines\\ImportResults",
+    "\\Medicines\\Utilities"
+  ],
+  "SelectedNode": "\\Medicines\\DataProcessor\\ImportDtos",
+  "PreviewInSolutionExplorer": false
+}
